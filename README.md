@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Junior`**
 
-Ola Me chamo William Martins, tenho 19 anos e sou natural de brasilia DF. Concluí o ensino médio no CEM URSO BRANCO, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIPLAN. Sou apaixonado por tecnologia e por aqui irei divulgar meus projetos e conhecimentos.
+Olá, sou William Martins, tenho 20 anos e sou natural de Brasília, DF. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIPLAN.
+
+Tenho forte interesse em tecnologia, desenvolvimento de software e soluções inovadoras. Neste espaço, compartilho meus projetos, experiências e aprendizados, buscando constantemente aprimorar minhas habilidades técnicas e contribuir para a comunidade de desenvolvedores.
 
 <p align="left">
    
