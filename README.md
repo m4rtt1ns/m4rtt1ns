@@ -80,14 +80,13 @@ Tenho forte interesse em tecnologia, desenvolvimento de software e soluções in
 />
 <img 
    align="left" 
-   alt="MySql" 
-   title="MySql"
+   alt="Linux" 
+   title="Linux"
    width="30px" 
    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
-   />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg"
+/>
           
-
 <br/>
 <br/>
 
